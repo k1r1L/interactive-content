@@ -1,13 +1,7 @@
-# Programming Basics with Python
+# HTML and CSS
 
 ## Description
-This course teaches the **basics of coding**, such as:
- - Using variables and expressions
- - Reading and printing at the console
- - Writing conditional logic (if-else)
- - Using loops: for-loops, while-loops, nested loops
- - Writing control-flow logic: combining conditions and loops
- - Problem solving: program design and implementation
+None
 
 ## Language
 English
