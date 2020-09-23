@@ -16,7 +16,7 @@ public class Program {
 ## Description
 It is hot and sunny outside so Softuni training team decides to organize a workday by the swimming pool. 
 
-Your task is to write a program that calculates the amount that should be paid. 
+Your test is to write a program that calculates the amount that should be paid. 
 
 Entrance fee must be paid for every single person. 
 
