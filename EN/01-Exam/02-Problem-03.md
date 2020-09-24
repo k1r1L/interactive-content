@@ -40,7 +40,7 @@ expect(document.title).to.equal("NewsPaper","Incorrect title name");
 yes
 [/output]
 [/test]
-[test]
+[test open]
 [input]
 const htmlBoxSizing = $('html').css('box-sizing');
 const pagePadding = $('*').css('padding');

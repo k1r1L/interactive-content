@@ -41,7 +41,7 @@ yes
 [/test]
 [test]
 [input]
-let main = $(".main");
+let main = $(".main").get(0);
 let style = window.getComputedStyle(main);
 let dispalyProp = style.getPropertyValue('display');
 expect(dispalyProp).to.equal("flex","Incorrect dispaly property");
@@ -52,7 +52,7 @@ yes
 [/test]
 [test]
 [input]
-let leftSection = $(".left");
+let leftSection = $(".left").get(0);
 let style = window.getComputedStyle(leftSection);
 let backGround = style.getPropertyValue('background-color');
 expect(backGround).to.equal("rgb(227, 243, 253)","Incorrect background of the left section");
@@ -74,7 +74,7 @@ yes
 [/test]
 [test]
 [input]
-let iTag = $(".left li i");
+let iTag = $(".left li i").get(0);
 let style = window.getComputedStyle(iTag);
 let color = style.getPropertyValue('color');
 expect(color).to.equal("rgb(129, 197, 251)","Incorrect color of the itags");
@@ -85,8 +85,8 @@ yes
 [/test]
 [test]
 [input]
-let rightPart = $(".right");
-let style = window.getComputedStyle(right);
+let rightPart = $(".right").get(0);
+let style = window.getComputedStyle(rightPart);
 let borderWidth = style.getPropertyValue('border-width');
 let borderStyle = style.getPropertyValue('border-style');
 expect(borderWidth).to.equal("2px","Incorrect border width of the right section");
@@ -101,7 +101,7 @@ yes
 let button = $("button").get(0);
 let style = window.getComputedStyle(button);
 let border = style.getPropertyValue('border');
-expect(border).to.equal("none","Incorrect border property value of the button");
+expect(border).to.equal("","Incorrect border property value of the button");
 [/input]
 [output]
 yes
