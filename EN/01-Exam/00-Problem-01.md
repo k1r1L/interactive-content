@@ -8,6 +8,9 @@
 
 [task-description]
 
+## Description
+* Create a Web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshots
+
 ## Constraints
 
 * Change the document **title** to **Register Form**

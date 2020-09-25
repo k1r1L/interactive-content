@@ -10,19 +10,19 @@
 [task-description]
 
 ## Description
-* Create a Web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshots
+* Create a Web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshot
 * You have been given all of the **required resources**
 
 ## Constraints
 * Change the document **title** to **Simple Article**
-* Use the **flex property** in the main for positioning the sections
-* Use **rgb(227, 243, 253)** for the left section background
+* Use the **flex property** on the main to position the sections
+* Use **rgb(227, 243, 253)** for the background of the left section 
 * **Remove** the default **list style**
-* Use **rgb(129, 197, 251)** for color of the **i-tags**
+* Use **rgb(129, 197, 251)** for the **i-tags**
 * Use **2px** for the **border** of the **right section**
 * The **button** should have **no borders**, the **padding on top** and **on bottom** should be exactly **16px**, and **on the left** and **right** should be **32px**
-* Set a **cursor** property to the **button** (pointer)
-* The **size** of the **button text** should be exactly **16px**
+* Give the **button** a cursor property - **pointer**
+* The **size** of the **button's text** should be exactly **16px**
 
 You can find an example view [here](https://i.imgur.com/jJ84BM9.png)
 

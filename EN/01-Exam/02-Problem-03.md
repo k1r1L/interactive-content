@@ -8,16 +8,16 @@
 [task-description]
 
 ## Description
-* Create a Web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshots
+* Create a Web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshot
 * You have been given all of the **required resources**
 
 ## Constraints
 * Change the document **title** to **NewsPaper**
-* **Reset** the deafault **paddin**, **margin** and **box-sizing**
-* Use **rgb(245, 239, 235)** for background of the **body**
-* Set the **text** of the **header** in **center**, and use **rgb(255, 255, 255)** for the **background**
-* Set the **styles** of the **div-container** with class .top-news to achieve the view like on the screenshot
-* Use **rgb(60, 63, 68)** for the **background** of the **footer header**
+* **Reset** the default **padding**, **margin** and **box-sizing**
+* Use **rgb(245, 239, 235)** for the **body's** background
+* Center the **text** in the **header** and use **rgb(255, 255, 255)** for the **background**
+* Style the **div-container** with class **.top-news** to match the screenshot
+* Use **rgb(60, 63, 68)** for the **background** of the **header** in the **footer**
 * Use **rgb(26, 31, 36)** for the **background** of the **footer**
 * Use **space-evenly** value to style the ul's
 * Use **baseline** for the element with class name **themes**
